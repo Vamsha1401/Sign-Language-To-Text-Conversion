@@ -1,4 +1,4 @@
-## **Sign-Language-To-Text-and-Speech-Conversion**
+## **Sign-Language-To-Text-Conversion**
 
 **ABSTRACT:** 
 
@@ -216,12 +216,6 @@ Python libraries: OpenCV, NumPy, Keras,mediapipe,Tensorflow
 
 ![sequence2](https://user-images.githubusercontent.com/99630855/201490230-b903c365-7a4c-4972-8268-5687060b9cd0.png)
 
-
-**Text to Speech Conversion**
-Text to Speech Conversion is done by Google NLP as follows :
-
-
-https://github.com/user-attachments/assets/21b5d51b-708c-47a8-b920-b34a36b2948f
 
 
 
